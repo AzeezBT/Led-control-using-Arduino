@@ -79,7 +79,6 @@ void loop() {
 }
 ~~~
 ## OUTPUT
-<img width="1116" height="777" alt="Screenshot 2025-08-19 111322" src="https://github.com/user-attachments/assets/e0e7ebc2-b77d-4dbd-a93a-f7265b18dd09" />
 
 <img width="1556" height="1021" alt="image" src="https://github.com/user-attachments/assets/a7934dd0-6973-498f-9b5b-1f1d99f3ef61" />
 
