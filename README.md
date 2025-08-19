@@ -1,3 +1,7 @@
+## NAME:- SHAIK AZEEZ AHAMAD
+## REG NO:- 212223110046
+
+
 # Led Control Using Arduino
 
 ## AIM
@@ -83,3 +87,4 @@ void loop() {
 <img width="1556" height="1021" alt="image" src="https://github.com/user-attachments/assets/a7934dd0-6973-498f-9b5b-1f1d99f3ef61" />
 
 ## RESULT
+The project designed and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
