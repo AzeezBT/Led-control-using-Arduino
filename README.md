@@ -2,7 +2,7 @@
 ## REG NO:- 212223110046
 
 
-# Ex No 1 Led Control Using Arduino
+# Ex No 1: Led Control Using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -62,6 +62,8 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![WhatsApp Image 2025-08-19 at 11 45 54_8ee95ed5](https://github.com/user-attachments/assets/f985738f-1f8a-4b53-a694-0cd0d68d60b6)
+
 
 ## PROGRAM
 ~~~
@@ -83,6 +85,8 @@ void loop() {
 }
 ~~~
 ## OUTPUT
+<img width="1116" height="777" alt="Screenshot 2025-08-19 111322" src="https://github.com/user-attachments/assets/141f619f-8207-4e64-8267-f8ddbb30ec9d" />
+
 
 <img width="1556" height="1021" alt="image" src="https://github.com/user-attachments/assets/a7934dd0-6973-498f-9b5b-1f1d99f3ef61" />
 
